@@ -1,0 +1,24 @@
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe.config
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.AssemblyReference.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Form1.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Properties.Resources.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.GenerateResource.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CoreCompileInputs.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CopyComplete
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.exe
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Administrator.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.uC_Dashboard.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_AddUser.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_ViewUser.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_Profile.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Pharmacist.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_Dashboard.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_AddMedicine.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_ViewMedcien.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Guna.UI2.dll
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_SellMedicine.resources
